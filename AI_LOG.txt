@@ -1,0 +1,11 @@
+1. Parallel Fetching Prompt:
+"Write Python code using asyncio and aiohttp to fetch multiple API requests concurrently using asyncio.gather."
+
+2. Error Handling Prompt:
+"How to handle API errors in aiohttp without crashing the program and continue execution for other tasks?"
+
+3. Weather Logic Prompt:
+"Write Python logic to mark orders as delayed if weather conditions are Rain, Snow, or Extreme."
+
+4. AI Apology Prompt:
+"Generate a Python function that creates a personalized apology message using customer name, city, and weather condition."
